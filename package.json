@@ -1,0 +1,38 @@
+{
+  "name": "teletimenextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.11",
+    "@types/node": "18.14.6",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "concurrently": "^7.6.0",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "express": "^4.18.2",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "next": "13.2.3",
+    "next-connect": "^0.13.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.5",
+    "react-router-dom": "^6.8.2",
+    "typescript": "4.9.5",
+    "validator": "^13.9.0",
+    "yup": "^1.0.2"
+  }
+}
